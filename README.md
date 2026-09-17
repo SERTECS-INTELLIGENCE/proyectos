@@ -32,7 +32,7 @@ Durante los ejercicios de simulación, se ejecutaron y detectaron las siguientes
 
 ## 📄 Documentación Adjunta
 
-*   [Reporte de Análisis de Informe de Incidentes (PDF)]: Documento detallado con capturas de pantalla del Discover de Wazuh, análisis de logs, alertas por correo electrónico y tabla de IoCs (Indicadores de Compromiso).
+*   [Reporte de Análisis de Informe de Incidentes (PDF)](./Mi%20An%C3%A1lisis%20de%20informe%20de%20incidentes.pdf): Documento detallado con capturas de pantalla del Discover de Wazuh, análisis de logs, alertas por correo electrónico y tabla de IoCs (Indicadores de Compromiso).
 
 ## 🚀 Conclusiones
 
